@@ -8,7 +8,7 @@ from urllib.parse import urlparse
 BOT_TOKEN = "8859712974:AAEtM8x8Ac0xNVrjM55dKyAfQugz_wgNmVE"
 ADMIN_ID = 8931155476
 ADMIN_USER = "@SUMIT_X_OFFICIAL"
-FIREBASE_URL = "https://YOUR_PROJECT-default-rtdb.firebaseio.com/"
+FIREBASE_URL = "https://hihehdhd-15a54-default-rtdb.asia-southeast1.firebasedatabase.app"
 IMGBB_KEY = "99ae48375e2105a9d3006e07fffb7038"
 MAX_ATT = 200
 # =====================================
