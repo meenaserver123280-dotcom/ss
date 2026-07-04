@@ -9,7 +9,7 @@ BOT_TOKEN = "YOUR_BOT_TOKEN"
 ADMIN_ID = 8931155476
 ADMIN_USER = "@SUMIT_X_OFFICIAL"
 FIREBASE_URL = "https://YOUR_PROJECT-default-rtdb.firebaseio.com/"
-IMGBB_KEY = "YOUR_IMGBB_API_KEY"
+IMGBB_KEY = "99ae48375e2105a9d3006e07fffb7038"
 MAX_ATT = 200
 # =====================================
 
