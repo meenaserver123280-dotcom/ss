@@ -5,7 +5,7 @@ from datetime import datetime
 from urllib.parse import urlparse
 
 # ===== CONFIG (YAHI CHANGE KARO) =====
-BOT_TOKEN = "YOUR_BOT_TOKEN"
+BOT_TOKEN = "8859712974:AAEtM8x8Ac0xNVrjM55dKyAfQugz_wgNmVE"
 ADMIN_ID = 8931155476
 ADMIN_USER = "@SUMIT_X_OFFICIAL"
 FIREBASE_URL = "https://YOUR_PROJECT-default-rtdb.firebaseio.com/"
